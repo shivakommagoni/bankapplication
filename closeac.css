@@ -1,0 +1,17 @@
+h1,h3,h2{
+	width:25%;
+	color:blue;
+	background-color:yellow;
+	border:1px sloid red;
+	font-size:30px;
+	margin:20px;
+}
+form{
+	background-color:pink;
+}
+a{
+	font-size:30px;
+}
+table{
+	font-size:40px;
+}
